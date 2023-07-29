@@ -1,6 +1,6 @@
 # Music App
 
-![App Logo](path_to_your_logo.png)
+![App Logo]([path_to_your_logo.png](https://img.freepik.com/free-vector/music-icon_53876-25524.jpg?w=740&t=st=1690636257~exp=1690636857~hmac=735a4df5ddcac6776178c5ae2734536a1fb878377497a9ba307a638314ee36ce))
 
 ## Table of Contents
 
