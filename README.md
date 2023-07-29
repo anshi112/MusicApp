@@ -1,6 +1,6 @@
 # Music App
 
-![App Logo]([path_to_your_logo.png](https://img.freepik.com/free-vector/music-icon_53876-25524.jpg?w=740&t=st=1690636257~exp=1690636857~hmac=735a4df5ddcac6776178c5ae2734536a1fb878377497a9ba307a638314ee36ce))
+![App Logo](https://img.freepik.com/free-vector/music-icon_53876-25524.jpg?w=740&t=st=1690636257~exp=1690636857~hmac=735a4df5ddcac6776178c5ae2734536a1fb878377497a9ba307a638314ee36ce)
 
 ## Table of Contents
 
@@ -17,14 +17,12 @@
 
 ## Description
 
-The Music App is an Android application developed using Kotlin that allows users to listen to their favorite music tracks, create playlists, and enjoy an immersive music experience. It provides a user-friendly interface to browse, search, and play music from a curated collection.
+The Music App is an Android application developed using Kotlin that allows users to listen to their favorite music tracks, Play, Pause it, Forward and Backward, and enjoy an immersive music experience. 
 
 ## Features
 
 - Browse and search for songs, albums, and artists.
-- Play, pause, skip, and repeat tracks.
-- Create and manage playlists.
-- Shuffle and repeat options for playlist playback.
+- Play, pause, and repeat tracks.
 - Audio player with play progress and control functions.
 - Interactive and visually appealing UI.
 
